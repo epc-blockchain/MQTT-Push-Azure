@@ -103,6 +103,8 @@ Sending message: {
 message sent
 ```
 
+### NOTE
+Run the server sdk https://github.com/epc-blockchain/MQTT-Pull-Azure collect pushed data.
 
 
 
