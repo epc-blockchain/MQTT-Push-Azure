@@ -1,4 +1,4 @@
-### BESC IOT-HUB MQTT INTEGRATION
+### BESC Azure IoT-Hub SDK Integrated System
 
 
 
